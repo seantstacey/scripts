@@ -14,7 +14,7 @@
 ## adbList="ADBDEMO|ocid1.autonomousdatabase.oc1.iad.abcwcljaaabbbcccdddefakef123456789123456789abcdefghijklmfake 
 ##          DB21C|ocid1.autonomousdatabase.oc1.iad.abewcljaaabbbcccdddeefake123456789123456rqponmlkjihgfedcbafake"
 ##
-adbList="<service name>|<database OCID>"
+adbList="<Your Service Name>|<Your database OCID>"
 ##
 ## Uncomment the following line to see a verbose version of the script when it runs
 # set -x 
