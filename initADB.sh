@@ -20,10 +20,10 @@
 ## Set the following variable to "start" or "stop" to START or STOP your instance:
 start_or_stop="start"
 #
-## OPTIONAL- Use this setting to control start | stop from the command-line when calling the script:
+## OPTIONAL- Control start | stop from the command-line when calling the script:
 # start_or_stop=$1  
 ##
-## OPTIONAL- Uncomment the following line to see a verbose version of the script when it runs
+## OPTIONAL- Uncomment to see a verbose output
 # set -x
 ## ####################################################################################
 ## NO NEED TO MODIFY ANYTHING BELOW THIS LINE...
