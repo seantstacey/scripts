@@ -15,7 +15,7 @@
 ##          DB21C|ocid1.autonomousdatabase.oc1.iad.abewcljaaab-SAMPLE-eefake12345678912rqponmlkjihgfedcbafake
            "
 ##
-   adbList="<service name|<database OCID>"
+   adbList="<service name>|<database OCID>"
 ##   
 ## Set the following variable to "start" or "stop" to START or STOP your instance:
 start_or_stop="start"
